@@ -61,10 +61,10 @@ We welcome contributions from the open-source community. If you'd like to contri
 ## 5. Contact <a name="contact"></a>
 
 For questions, feedback, or support, please contact our team at [binarytitans07@gmail.com].
-Team Members: Dheeraj Mishra [https://shorturl.at/hEHLX]
-              Gaurav Kumar Azad [https://www.linkedin.com/in/gaurav-kumar-azad]
-              Saurabh Bharti [https://www.linkedin.com/in/bhartisaurabh] 
-              Rajnish Kumar [https://www.linkedin.com/in/rajnish-chaurasia-b8223322b/]
+Team Members: 1).Dheeraj Mishra [https://shorturl.at/hEHLX]
+              2).Gaurav Kumar Azad [https://www.linkedin.com/in/gaurav-kumar-azad]
+              3).Saurabh Bharti [https://www.linkedin.com/in/bhartisaurabh] 
+              4).Rajnish Kumar [https://www.linkedin.com/in/rajnish-chaurasia-b8223322b/]
 ## 6. Future Scope <a name="future-scope"></a>
 
 AarogyaChain is an evolving project with a bright future. We plan to enhance its capabilities, improve user experience, and explore new technologies to further secure and streamline healthcare management.
