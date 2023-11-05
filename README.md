@@ -65,6 +65,9 @@ Team Members: 1).Dheeraj Mishra [https://shorturl.at/hEHLX]
               2).Gaurav Kumar Azad [https://www.linkedin.com/in/gaurav-kumar-azad]
               3).Saurabh Bharti [https://www.linkedin.com/in/bhartisaurabh] 
               4).Rajnish Kumar [https://www.linkedin.com/in/rajnish-chaurasia-b8223322b/]
+              
+Reference: https://docs.google.com/presentation/d/1OQvneBhp4gX-Nabbh5Np0-cZ6OYJ9v87/edit?usp=sharing&ouid=108788869920225602690&rtpof=true&sd=true    
+
 ## 6. Future Scope <a name="future-scope"></a>
 
 AarogyaChain is an evolving project with a bright future. We plan to enhance its capabilities, improve user experience, and explore new technologies to further secure and streamline healthcare management.
