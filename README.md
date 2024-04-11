@@ -1,3 +1,4 @@
+![Screenshot (278)](https://github.com/rajnish159/ArogyaChain/assets/108886478/09a3546b-4c1a-47b5-8f82-0e2a04706b6d)
 # AarogyaChain: Secure Healthcare Management
 
 Welcome to AarogyaChain, a revolutionary platform that combines the power of cutting-edge technologies and healthcare expertise to empower patients and healthcare providers alike. In this README, we'll take you through every aspect of AarogyaChain, from its features to its technology stack, and explain why and how we built it.
